@@ -14,7 +14,7 @@ This project challenges you to create a clone of the GKrellM system monitor, sho
 - **Library:** `ncurses` for terminal graphics.
 - **Binary Name:** MyGKrellm
 
-## Project Overview 📜
+## Project Overview 🔎
 
 The goal is to develop a system monitor that can be run in both text and graphical modes, providing various system information through customizable modules.
 
