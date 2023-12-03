@@ -1,4 +1,4 @@
-# My_GKrellm 🖥️
+# My_GKrellm 📟
 
 Welcome to **My_GKrellm**.
 
